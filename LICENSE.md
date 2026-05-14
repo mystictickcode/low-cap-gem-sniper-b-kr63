@@ -1,4 +1,4 @@
-# 
+# automatic Sniper for low cap gem sniper bot | rug-pull-detection & token-launch-monitoring offers the most advanced low cap gem sniper bot, with rug-pull-detection and
 
 
 
